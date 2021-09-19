@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-AaronAcerboni.xyz
+[AaronAcerboni.xyz](http://aaronacerboni.xyz)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronacerboni&count_private=true&include_all_commits=true)](https://github.com/aaronacerboni)
 
