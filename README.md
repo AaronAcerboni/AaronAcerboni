@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 AaronAcerboni.xyz
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronacerboni)](https://github.com/aaronacerboni)
