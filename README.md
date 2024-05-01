@@ -1,8 +1,8 @@
 ### About me
 
-I mainly program in JavaScript.
+I mainly program in JavaScript though most of my work is private and not worth sharing.
 
-Two projects I am particularly proud of are:
+Two (old) projects I am particularly proud of are:
 
 - [connect-ratelimit](https://www.npmjs.com/package/connect-ratelimit) - which is [connect](https://www.npmjs.com/package/connect) middleware 
 for limiting IP connections to the server. It still proves popular with 520 weekly downloads as of September 2021!
@@ -10,7 +10,7 @@ for limiting IP connections to the server. It still proves popular with 520 week
 server for web scraping various web documents including JSON, HTML et cetera. It's fairly popular and I think underrated at 60 weekly 
 downloads as of September 2021.
 
-- 🌐  [AaronAcerboni.xyz/blog](http://aaronacerboni.xyz/blog) is my personal website. I sometimes blog on lifting weights.
+- 🌐  [AaronAcerboni.xyz/blog](http://aaronacerboni.xyz/blog) is my personal website. It's mainly about lifting weights.
 
 ### Stats
 
